@@ -1,5 +1,5 @@
 {
-  "name": "devportfolio-template",
+  "name": "devportfolio",
   "version": "1.2.2",
   "description": "my web portfolio app",
   "main": "js/scripts.js",
@@ -17,7 +17,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Sushanta Kumar Khara",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
